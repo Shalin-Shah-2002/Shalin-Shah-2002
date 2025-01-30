@@ -15,7 +15,7 @@
 ---
 
 ### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shalin-Shah-2002&show_icons=true&theme=radical)
 
 ---
 
@@ -28,21 +28,21 @@
 ---
 
 ### 👯‍👯 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=vercel)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/Shalin-Shah-2002)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/Shalin-Shah-2002)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=vercel)](https://https://github.com/Shalin-Shah-2002)
 
 ---
 
 ### 🚀 More GitHub Features:
 - **Most Used Languages:**  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shalin-Shah-2002&layout=compact&theme=radical)
 - **GitHub Streak:**  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Shalin-Shah-2002&theme=radical)
 - **GitHub Trophies:**  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical)
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shalin-Shah-2002&theme=radical)
 - **GitHub Activity Graph:**  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=dracula)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shalin-Shah-2002&theme=dracula)
 
 ---
 
@@ -50,11 +50,11 @@
 - **Developer GIF:**  
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 - **Profile Views Counter:**  
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Shalin-Shah-2002)
 - **Random Joke:**  
   ![Jokes Card](https://readme-jokes.vercel.app/api)
 - **Snake Contributions:**  
-  ![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Shalin-Shah-2002/Shalin-Shah-2002/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
