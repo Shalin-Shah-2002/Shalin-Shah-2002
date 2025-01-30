@@ -30,7 +30,7 @@
 ### 👯‍👯 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/Shalin-Shah-2002)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/Shalin-Shah-2002)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=vercel)](https://https://github.com/Shalin-Shah-2002)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=vercel)](https://github.com/Shalin-Shah-2002)
 
 ---
 
@@ -53,8 +53,12 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=Shalin-Shah-2002)
 - **Random Joke:**  
   ![Jokes Card](https://readme-jokes.vercel.app/api)
-- **Snake Contributions:**  
-  ![Snake animation](https://github.com/Shalin-Shah-2002/Shalin-Shah-2002/blob/output/github-contribution-grid-snake.svg)
+- **Quote of the Day:**  
+  ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical)
+- **Random Dev Meme:**  
+  <img src="https://random-memer.herokuapp.com/" width="400">
+- **Code Time Stats:**  
+  ![Code Time](https://wakatime.com/badge/user/your-wakatime-username.svg)
 
 ---
 
