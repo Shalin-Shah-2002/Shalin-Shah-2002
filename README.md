@@ -1,3 +1,6 @@
+Here’s the full code with your LinkedIn, X (formerly Twitter), Medium, GitHub Stats, and Streak. You can copy and paste this directly into your GitHub README:
+
+```markdown
 <h1 align="center">Hi there, I'm Shalin 👋</h1>
 <h3 align="center">I'm a Flutter & Web Developer | Competitive Programmer 💻</h3>
 
@@ -36,9 +39,10 @@
 ---
 
 ### 👯‍👯 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/Shalin-Shah-2002)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/Shalin-Shah-2002)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=vercel)](https://github.com/Shalin-Shah-2002)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shalin-shah-379193247/)
+[![Twitter](https://img.shields.io/badge/X-blue?style=flat&logo=x&logoColor=white)](https://x.com/shalin_d3v)
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=flat&logo=medium)](https://medium.com/@2002shalin)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Shalin-Shah-2002)
 
 ---
 
@@ -62,9 +66,7 @@
 - **Random Joke:**  
   ![Jokes Card](https://readme-jokes.vercel.app/api)
 - **Quote of the Day:**  
-  ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical)
-- **Random Dev Meme:**  
-  <img src="https://random-memer.herokuapp.com/" width="400">
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 - **Code Time Stats:**  
   ![Code Time](https://wakatime.com/badge/user/your-wakatime-username.svg)
 
@@ -72,3 +74,8 @@
 
 ### ✨ Fun Fact:
 > "I push code like I push weights in the gym!"
+```
+
+Just replace `"your-wakatime-username"` in the **Code Time Stats** with your actual Wakatime username if you're using Wakatime.
+
+Let me know if you need more adjustments or additions!
