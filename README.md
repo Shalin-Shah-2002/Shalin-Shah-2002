@@ -36,9 +36,10 @@
 ---
 
 ### 👯‍👯 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/Shalin-Shah-2002)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/Shalin-Shah-2002)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=vercel)](https://github.com/Shalin-Shah-2002)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shalin-shah-379193247/)
+[![X](https://img.shields.io/badge/X-blue?style=flat&logo=x&logoColor=white)](https://x.com/shalin_d3v)
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=flat&logo=medium)](https://medium.com/@2002shalin)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Shalin-Shah-2002)
 
 ---
 
