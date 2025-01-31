@@ -7,7 +7,7 @@
 
 ### 📌 About Me:
 - 🚀 **Flutter Developer** | Node.js Enthusiast
-- 🎯 Working on **CanteenOp** (College Canteen App)
+- 🎯 Working on **FitSync** (Your Fitness Pal)
 - 🏆 **Competitive Coder** | Solved 100+ problems
 - 📰 Writing on **Medium** about Dev topics
 - 🎨 Building interactive UI & animations in Flutter
