@@ -8,7 +8,7 @@
 ### 📌 About Me:
 - 🚀 **Flutter Developer** | Node.js Enthusiast
 - 🎯 Working on **FitSync** (Your Fitness Pal)
-- 🏆 **Competitive Coder** 
+- 🏆 **Competitive Coder | 50+ Problem Solved** 
 - 📰 Writing on **Medium** about Dev topics
 - 🎨 Building interactive UI & animations in Flutter
 
