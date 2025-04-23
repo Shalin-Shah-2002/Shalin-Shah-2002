@@ -95,4 +95,22 @@
 
 ### 🎉 Extras:
 
-- **👨**
+- **👨‍💻 Coding GIF:**  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+
+- **Profile Views Counter:**  
+  <img src="https://komarev.com/ghpvc/?username=Shalin-Shah-2002"/>
+
+- **Random Dev Joke:**  
+  <img src="https://readme-jokes.vercel.app/api"/>
+
+- **Daily Dev Quote:**  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal"/>
+
+- **WakaTime Stats:**  
+  <img src="https://wakatime.com/badge/user/your-wakatime-username.svg"/>
+
+---
+
+### ✨ Fun Fact:
+> "I push code like I push weights in the gym!"
