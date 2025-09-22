@@ -1,35 +1,36 @@
 <!-- Profile Header -->
-<h1 align="center">✨ Hey, I'm Shalin 👋</h1>
-<h3 align="center">🚀 Flutter & Web Developer | Competitive Programmer 💻</h3>
+<h1 align="center">👋 Hey, I'm Shalin</h1>
+<h3 align="center">Backend-Focused Full-Stack Developer | Flutter Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=435&lines=Crafting+UIs+%26+Experiences;Full+Stack+Developer;Always+Learning+New+Tech;Problem+Solver+%F0%9F%A4%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=500&lines=Building+robust+backends+%26+APIs;Scaling+databases+for+real+apps;Crafting+clean+Flutter+UIs;Problem+Solver+%F0%9F%A4%93" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 📌 About Me  
-- 🚀 **Flutter Developer** | Node.js Enthusiast  
+- ⚡ **Backend-first developer** → APIs, databases, and system architecture  
+- 🚀 Skilled in **Node.js, Express, MongoDB, SQL, Firebase, FastAPI**  
 - 🎯 Currently Building: **FitSync (Your Fitness Pal)**  
-- 🏆 **Competitive Programmer | 50+ Problems Solved**  
-- ✍️ Blogs on **[Medium](https://medium.com/@2002shalin)**  
-- 🎨 Passionate about **Animations, UI & User Experience**  
+- 🏆 Solved **50+ Competitive Programming Problems**  
+- ✍️ Tech blogs on **[Medium](https://medium.com/@2002shalin)**  
+- 🎨 Flutter & UI for **polished user experiences**  
 
 ---
 
-### 🚀 Tech Stack  
+### ⚙️ Tech Stack  
 
-**Frontend & Mobile:**  
+**Backend & Databases (my jam 🖤):**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,mysql,firebase,sqlite,flask" />
+</p>
+
+**Frontend & Mobile (for smooth delivery 🚀):**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,kotlin,android" />
 </p>
 
-**Backend & Database:**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,firebase,mongodb,mysql,sqlite,flask" />
-</p>
-
-**Design Tools:**  
+**Design Tools (UI when needed 🎨):**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,xd" />
 </p>
@@ -70,8 +71,8 @@
 ---
 
 ### 🎉 Extras  
-- 👨‍💻 Coding Vibes:  
-  <p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/></p>  
+- 👨‍💻 Backend Vibes:  
+  <p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/></p>  
 
 - 👀 Profile Views:  
   <p align="center"><img src="https://komarev.com/ghpvc/?username=Shalin-Shah-2002&style=for-the-badge&color=blue"/></p>
@@ -85,4 +86,4 @@
 ---
 
 ### ✨ Fun Fact  
-> 💪 "I push code like I push weights in the gym!"  
+> 🖤 "APIs are my love language. UIs are just the pretty clothes I dress them in."
